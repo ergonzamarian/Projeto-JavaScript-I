@@ -1,5 +1,5 @@
 # Projeto-JavaScript-I
 
->Status do Projeto: Em desenvolvimento
+>Status do Projeto: Projeto Finalizado
 
-Neste repositório irei colocar a primeira parte da minha revisão de javaScript :D
+Desenvolvimento de um pequeno projeto de botões musicais em javaScript
